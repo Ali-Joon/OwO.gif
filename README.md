@@ -1,2 +1,3 @@
 # yamete
 :)
+Useful in Discord
